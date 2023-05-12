@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Oxanium', cursive;
+  overflow: hidden;
 }
 body{
     background: url(images/bg_masterball.png) #c1bacc no-repeat;
